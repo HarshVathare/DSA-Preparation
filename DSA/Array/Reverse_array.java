@@ -38,4 +38,3 @@ public class Reverse_array {
     }
 }
 
-//this is my second commit
