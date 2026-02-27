@@ -1,9 +1,5 @@
-/************************************************************************
- Developer Name : Harshvardhan Vathare
- Developer Content : harsh1234vathare@gmail.com
- Created On : 2/27/2026 9:31 AM
- Project Name : demo
- ************************************************************************/
+
+ /********************* 88 Merge Sorted Array  ***************************************************/
 public class Merge_Sorted_Elements {
     public static void main(String[] args) {
         int[]nums1 = {1,2,3,0,0,0};

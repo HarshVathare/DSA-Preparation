@@ -1,9 +1,5 @@
-/************************************************************************
- Developer Name : Harshvardhan Vathare
- Developer Content : harsh1234vathare@gmail.com
- Created On : 2/19/2026 6:31 AM
- Project Name : demo
- ************************************************************************/
+
+ /*************  27 => Remove Elements   ***********************************************************/
 public class RemoveElements {
     public static void main(String[] args) {
         int[] nums = {3,2,2,3};
